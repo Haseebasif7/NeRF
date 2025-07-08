@@ -1,6 +1,6 @@
 # 🧠 Neural Radiance Fields (NeRF)
 
-This is a minimal and educational PyTorch implementation of **Neural Radiance Fields (NeRF)**, capable of generating 3D views from 2D images.
+This is a minimal and educational PyTorch reimplementation of **Neural Radiance Fields (NeRF)**, capable of generating 3D views from 2D images.
 
 ---
 
